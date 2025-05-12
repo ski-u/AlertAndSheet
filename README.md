@@ -3,3 +3,8 @@
 - the alert shows again unexpectedly
 
 https://github.com/user-attachments/assets/cf7e7c9d-ea79-4449-b413-492c6097ba02
+
+## Environment
+- Xcode: 16.3
+- The Composable Architecture: 1.19.1
+
